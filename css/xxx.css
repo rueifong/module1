@@ -109,14 +109,14 @@ body {
   left: 0;
   top: 70px;
   padding: 0.5rem;
-  height: 61%;
+  height: 65%;
 }
 
 #controlbar2 {
   text-align: center;
   position: fixed;
   left: 0;
-  top: calc(61% + 75px);
+  top: calc(65% + 75px);
   padding: 0.5rem;
 }
 
